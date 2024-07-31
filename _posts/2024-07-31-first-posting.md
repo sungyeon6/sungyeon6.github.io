@@ -11,4 +11,4 @@ date: 2024-07-31
 ### This is first posting. (H3)
 #### Good to see you. (H4)
 
-<img src="/assets/img/huhcat.jpg" width="450px" height="300px"></img>
+<img src="/assets/img/huhcat.jpg" width="200px" height="200px">
